@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+dist_electron/
+*.tmp
+coverage/
+.DS_Store
+*.log
+.env
+.env.local
+.sentinel-agent.json
+!.env.example
+data/agent_auth.json

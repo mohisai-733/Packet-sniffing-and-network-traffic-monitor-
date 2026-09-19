@@ -1,0 +1,6 @@
+{
+  "name": "Advanced Packet Sniffer",
+  "description": "Enterprise Network Monitoring and Intelligent Traffic Analyzer with Real-Time Visualization, Protocol Inspection, and Threat Detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
